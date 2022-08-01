@@ -1,0 +1,8 @@
+        | Data                    | Ivykio pavadinimas                  | Kiek liko dienu | Komentaras                                |
+---------------------------------------------------------------------------------------------------------------------------------------
+        | 2020-05-25              | Fizikos kontrolinis is astronomijos |       -1        |                                           |
+SVARBUS | 2020-05-28              | Padaryt jkm ataskaita               |       2         |                                           |
+SVARBUS | 2020-05-30              | JKM baigiamojo pristatymas          |       4         |                                           |
+SVARBUS | 2020-06-01 - 2020-06-03 | Parasyt rasini                      |       6         |                                           |
+        | 2020-06-01              | paskutinis biologijos atsiskaitymas |       6         | Tureti atsakytus klausimus word dokumente |
+        | 2020-06-16              | Mokslo metu pabaiga                 |       21        |                                           |

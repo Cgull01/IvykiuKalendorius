@@ -1,0 +1,6 @@
+D:\Duomenys\Vartotojas\Desktop\Programing\jkm\Baigiamojo stuff\P82V_Motiejūnas_BD_2020\x64\Debug\Tomas_Motiejunas_IvykiuKalendorius.vcxprojAssemblyReference.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\jkm\Baigiamojo stuff\P82V_Motiejūnas_BD_2020\x64\Debug\TomasMotiejunasIvykiuKalendorius.Prisijungimas.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\jkm\Baigiamojo stuff\P82V_Motiejūnas_BD_2020\x64\Debug\TomasMotiejunasIvykiuKalendorius.Ivykiu_kalendorius.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\jkm\Baigiamojo stuff\P82V_Motiejūnas_BD_2020\x64\Debug\Tomas_Motiejunas_IvykiuKalendorius.vcxproj.GenerateResource.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\jkm\Baigiamojo stuff\P82V_Motiejūnas_BD_2020\x64\Debug\Tomas_Motiejunas_IvykiuKalendorius.exe
+D:\Duomenys\Vartotojas\Desktop\Programing\jkm\Baigiamojo stuff\P82V_Motiejūnas_BD_2020\x64\Debug\Tomas_Motiejunas_IvykiuKalendorius.pdb

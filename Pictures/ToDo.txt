@@ -1,0 +1,11 @@
+>Ataskaita - Doing
+
+
+Meniu sąraše turi būti bent vienas meniu punktas, k
+urį paspaudus vartotojas turi gauti informaciją apie programos autorių, 
+užduotį, nurodymus ir paaiškinimus darbui su programa.
+
+make plan for presentation kad parodyti programos galimybes
+
+Reikes: baigiamasis darbas suarchyvuotas su zip formatu.
+pdf formatu ataskaita
